@@ -75,6 +75,7 @@ p {
     margin-left: 25px;
 }
 
+/* Moved the below ids to better fit the organization of the index.html */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -129,6 +130,7 @@ p {
     font-size: 36px;
 }
 
+/* This is the end of where I moved things around */
 .benefits {
     margin-right: 20px;
     padding: 20px;
